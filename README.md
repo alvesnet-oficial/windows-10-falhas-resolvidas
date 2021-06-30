@@ -1,2 +1,2 @@
-# Pasta Corrompida eilegivel:
+# Pasta Corrompida e ilegivel:
 
