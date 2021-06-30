@@ -13,7 +13,9 @@ Foi necessário executar o seguinte comando via cmd:
 
 chkdsk /r /f
 
-
+<p align="center">
+    <img src="correcaododisco.png" width="324" height="324">
+</p>
 
 
 Após reparação estruturas de pastas e arquivos do disco (hd) o computador voltar a permitir o acessos as pastas e arquivos sem problemas.
