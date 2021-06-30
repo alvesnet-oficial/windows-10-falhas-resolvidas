@@ -7,7 +7,7 @@ Algumas momentos conseguimos acessar outras pastas por se permissão de criar ar
     <img src="pasta-corrompida-ilegivel.jpeg" width="324" height="324">
 </p>
   
-Resolução:
+#Resolução:
 
 Foi necessário executar o seguinte comando via cmd:
 
