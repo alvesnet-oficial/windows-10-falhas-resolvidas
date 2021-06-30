@@ -1,13 +1,13 @@
 # Pasta Corrompida e ilegivel:
 
-Detectamos esse problema o computador não carregada os arquivos e pastas e icones da 'Area de Trabalho'.
-Algumas momentos conseguimos acessar outras pastas por se permissão de criar arquivos e pastas em outras areas do disco (hd).
+Detectamos esse problema o computador não abria os arquivos e pastas e icones da 'Area de Trabalho'.
+Alguns momentos conseguimos acessar outras pastas porem não permitia criar arquivos e pastas em outras areas do disco (hd).
 
 <p align="center">
     <img src="pasta-corrompida-ilegivel.jpeg" width="324" height="324">
 </p>
   
-#Resolução:
+# Resolução:
 
 Foi necessário executar o seguinte comando via cmd:
 
