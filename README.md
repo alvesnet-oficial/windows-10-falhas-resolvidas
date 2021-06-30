@@ -1,4 +1,4 @@
-# Pasta Corrompida e ilegivel:
+# 1. Pasta Corrompida e ilegivel:
 
 Detectamos esse problema o computador não abria os arquivos e pastas e icones da 'Area de Trabalho'.
 Alguns momentos conseguimos acessar outras pastas porem não permitia criar arquivos e pastas em outras areas do disco (hd).
